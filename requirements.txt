@@ -64,3 +64,4 @@ urllib3==2.5.0
 wcwidth==0.2.14
 zipp==3.23.0
 dill==0.4.0
+gdown

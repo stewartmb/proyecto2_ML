@@ -13,3 +13,4 @@ build/
 .vscode/
 notebook_env.db
 data/
+notebook_env_f.db
